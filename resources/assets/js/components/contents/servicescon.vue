@@ -66,7 +66,7 @@
 														</div>
 														<div class="clearfix"></div>
 													</div>
-													<p>Think it, we build it! own a fully customized web application 
+													<p>Think it, I build it! Own a fully customized web application 
 														built from ground up.. </p>
 												</div>
 

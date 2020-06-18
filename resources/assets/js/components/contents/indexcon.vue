@@ -17,7 +17,7 @@
                             <img src="/images/pic.jpg" alt="Henry onyemaobi web developer portfolio"
                              class="img-responsive " title='Henry onyemaobi web developer'>
                             <h2>I'm Henry</h2>
-                            <span>Web Developer / Support Engineer</span>
+                            <span>Web Developer</span>
                             <ul class="top-links_w3layouts padd ">
                                  <li><a href="https://www.linkedin.com/in/henry-onyemaobi" target='_blank'><i class="fa fa-linkedin"></i></a></li>
                                 <li><a href="mailto:henryonyemaobi@gmail.com"><i class="fa fa-google-plus"></i></a></li>
@@ -34,7 +34,7 @@
                     <div class="about">
                         <div class="wrap_view_agileits">
                             <h3 class="head">About Me</h3>
-                            <p class="head_para">A goal driven web developer</p>
+                            <p class="head_para">A goal driven web developer and tech support engineer</p>
                             <div class="inner_section_wthree">
                                 <div class="col-md-7 about-left">
                                     <div class="about-left-info">
@@ -47,15 +47,15 @@
                                         </div>
                                     <div class="about-left-info">
                                             <h4>Job Title</h4>
-                                            <p>Web Developer</p>
+                                            <p>Web Developer / Support Engineer</p>
                                     </div>
                                     <div class="about-left-info">
                                         <h4>Address</h4>
-                                        <p> ANAI Foundation, Ajah. Lagos</p>
+                                        <p> Thomas Estate, Ajah. Lagos</p>
                                     </div>
                                     <div class="about-left-info">
                                         <h4>Email Address</h4>
-                                        <p><a href="mailto:henryonyemaobi@gmail.com">henryonyemaobi@gmail.com</a></p>
+                                        <p><a href="mailto:support@henrymoby.website">support@henrymoby.website</a></p>
                                     </div>
                                 </div>
 

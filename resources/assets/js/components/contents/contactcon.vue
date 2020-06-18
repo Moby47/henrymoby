@@ -58,7 +58,7 @@
 									</div>
 									<div class="col-md-10 col-sm-10 col-xs-10 contact-text">
 										<h4>Email</h4>
-										<p><a href="mailto:henryonyemaobi@gmail.com">Click here</a></p>
+										<p><a href="mailto:support@henrymoby.website">Click here</a></p>
 									</div>
 									<div class="clearfix"></div>
 								</div>

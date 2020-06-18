@@ -132,7 +132,7 @@
 								<div class="author left_bar">
 									<h3>About <span>Admin</span></h3>
 									<div class="author_grid">
-										<p>Henry Onyemaobi is a goal driven, self taught, fullstack web developer. 
+										<p>Henry Onyemaobi is a goal driven, self taught, fullstack web developer and tech support engineer. 
 											Fueled by enthusiasm for computing.</p>
 										<div class="author_grid_pos">
 											<img src="/images/pic.jpg" alt=" " class="img-responsive">

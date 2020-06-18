@@ -5,8 +5,6 @@
           <linkedin :url="url" scale="2"></linkedin>
           <telegram :url="url" scale="2"></telegram>
           <whats-app :url="url" title="Word-on-dstreet" scale="2"></whats-app>
-          <pinterest :url="url" scale="2"></pinterest>
-          <reddit :url="url" scale="2" title="Word-on-dstreet"></reddit>
           <email :url="url" subject="Word-on-dstreet" scale="2"></email>
         </div>
       </template>
@@ -18,8 +16,6 @@
   Facebook,
   Twitter,
   Linkedin,
-  Pinterest,
-  Reddit,
   Telegram,
   WhatsApp,
   Email,
@@ -31,8 +27,6 @@
     Facebook,
     Twitter,
     Linkedin,
-    Pinterest,
-    Reddit,
     Telegram,
     WhatsApp,
     Email,
@@ -44,7 +38,7 @@
 
           mounted(){
             //url issues
-         this.url = window.location;
+         this.url = String(window.location);
           },
         }
       

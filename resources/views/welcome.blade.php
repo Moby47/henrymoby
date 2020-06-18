@@ -73,7 +73,7 @@
   </script>
 
 
-  <!-- register service worker--
+  <!-- register service worker-->
   <script type="text/javascript">
 	// Initialize the service worker
 	if ('serviceWorker' in navigator) {
@@ -88,7 +88,7 @@
 		});
 	}
 </script>
-  !--register service worker-->
+  <!--register service worker-->
   
 <!-- Load polyfills to support older browsers -->
 <script src="//polyfill.io/v3/polyfill.min.js?features=es2015%2CMutationObserver" crossorigin="anonymous"></script>

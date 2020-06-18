@@ -22,7 +22,7 @@
             <v-divider></v-divider>
       
             <v-card-text class="white--text">
-              &copy;2019 — <strong>MobyTech</strong>
+              &copy;2020 — <strong>MobyTech</strong>
             </v-card-text>
           </v-card>
         </v-footer>
