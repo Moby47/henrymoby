@@ -55,7 +55,7 @@
                                     </div>
                                     <div class="about-left-info">
                                         <h4>Email Address</h4>
-                                        <p><a href="mailto:support@henrymoby.website">support@henrymoby.website</a></p>
+                                        <p><a href="mailto:henryonyemaobi@gmail.com">support@henrymoby.website</a></p>
                                     </div>
                                 </div>
 

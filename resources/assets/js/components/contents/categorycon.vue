@@ -90,7 +90,7 @@
                                             
                                                         </div>
         </span>
-
+        <div class='clearfix'></div>
                          <div class='text-center' v-if='!isempty'>
                                         <div class="pagination ">
                                                 <button class='btn btn-info custombtn' @click.prevent="fetch(pagination.prev_page_url)" :disabled="!pagination.prev_page_url">

@@ -243,7 +243,7 @@ public function contact(Request $request){
         session(['num' => $tel]);
         session(['msg' => $msg]);
      
-        Mail::to('support@henrymoby.website')->send(new Contact());
+        Mail::to('henryonyemaobi@gmail.com')->send(new Contact());
          //email notification to henry #me
          
    }
